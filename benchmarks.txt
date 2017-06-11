@@ -1,0 +1,126 @@
+aa 
+Solution length:              2
+
+          Explored     Frontier
+Agent 0:         1            2
+============================================== 
+crunch 
+Solution length:            163
+
+          Explored     Frontier
+Agent 0:     15195         6910
+============================================== 
+firefly 
+Solution length:            114
+
+          Explored     Frontier
+Agent 0:       702          261
+============================================== 
+Heuristics1 
+Solution length:             23
+
+          Explored     Frontier
+Agent 0:        63          125
+============================================== 
+MoveSatGoal 
+Solution length:             26
+
+          Explored     Frontier
+Agent 0:       261          240
+============================================== 
+SAD1 
+Solution length:             20
+
+          Explored     Frontier
+Agent 0:        50           24
+============================================== 
+SAD2 
+Solution length:             30
+
+          Explored     Frontier
+Agent 0:    132815        79957
+============================================== 
+MA1 
+Solution length:              3
+
+          Explored     Frontier
+Agent 0:         2            3
+Agent 1:         2            3
+============================================== 
+MA2 
+Solution length:              6
+
+          Explored     Frontier
+Agent 0:         5            1
+Agent 1:         5            1
+============================================== 
+MultBoxMa2 
+Solution length:             24
+
+          Explored     Frontier
+Agent 0:        32           37
+Agent 1:        25           34
+============================================== 
+MA2colors 
+Solution length:              6
+
+          Explored     Frontier
+Agent 0:         5            1
+Agent 1:         5            1
+============================================== 
+environment\SAbispebjerg 
+Solution length:           1580
+
+          Explored     Frontier
+Agent 0:     74475        44605
+============================================== 
+environment\SABoxesOfBitch 
+Solution length:            228
+
+          Explored     Frontier
+Agent 0:     16477         3403
+============================================== 
+environment\SAboxesOfHanoi 
+Solution length:            347
+
+          Explored     Frontier
+Agent 0:    615562        77194
+============================================== 
+environment\SAchoice 
+Solution length:             18
+
+          Explored     Frontier
+Agent 0:        92          303
+============================================== 
+environment\SAchoice2 
+Solution length:             11
+
+          Explored     Frontier
+Agent 0:        10           26
+============================================== 
+environment\SAsimple1 
+Solution length:              7
+
+          Explored     Frontier
+Agent 0:         6            2
+============================================== 
+environment\SAsimple2 
+Solution length:             51
+
+          Explored     Frontier
+Agent 0:        48           26
+============================================== 
+environment\SAsokobanLevel96 
+Solution length:            199
+
+          Explored     Frontier
+Agent 0:      6174         9800
+============================================== 
+environment\SAtest 
+Solution length:             20
+
+          Explored     Frontier
+Agent 0:      2438         1211
+============================================== 
+environment\MASimple1 
+============================================== 

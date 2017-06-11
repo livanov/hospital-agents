@@ -1,0 +1,6 @@
+# IntelliJ IDEA
+.idea/
+classes/
+out/
+*.iml
+results.txt
